@@ -1,0 +1,189 @@
+{
+  "callId": "call_087d7d74cda1",
+  "startedAt": "2026-06-02T11:07:13.313997+00:00",
+  "endedAt": "2026-06-02T11:07:31.641576+00:00",
+  "transcripts": [
+    {
+      "type": "stt_partial",
+      "text": "Hello?",
+      "timestamp": "2026-06-02T11:07:22.382222+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "Hello?",
+      "timestamp": "2026-06-02T11:07:22.539804+00:00"
+    }
+  ],
+  "events": [
+    {
+      "call_id": "call_087d7d74cda1",
+      "event_type": "room_created",
+      "payload": {
+        "room": "maya-bank-call_087d7d74cda1"
+      },
+      "timestamp": "2026-06-02T11:07:17.741962+00:00"
+    },
+    {
+      "call_id": "call_087d7d74cda1",
+      "event_type": "agent_joined",
+      "payload": {
+        "agent": "Maya"
+      },
+      "timestamp": "2026-06-02T11:07:17.757948+00:00"
+    },
+    {
+      "call_id": "call_087d7d74cda1",
+      "event_type": "user_joined",
+      "payload": {
+        "identity": "user-0de1007d",
+        "name": "Ayushi"
+      },
+      "timestamp": "2026-06-02T11:07:17.772040+00:00"
+    },
+    {
+      "call_id": "call_087d7d74cda1",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T11:07:17.777195+00:00"
+    },
+    {
+      "call_id": "call_087d7d74cda1",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.0,
+          "avg": 0.0
+        }
+      },
+      "timestamp": "2026-06-02T11:07:17.777332+00:00"
+    },
+    {
+      "call_id": "call_087d7d74cda1",
+      "event_type": "llm_started",
+      "payload": {
+        "purpose": "greeting"
+      },
+      "timestamp": "2026-06-02T11:07:17.775613+00:00"
+    },
+    {
+      "call_id": "call_087d7d74cda1",
+      "event_type": "tts_started",
+      "payload": {},
+      "timestamp": "2026-06-02T11:07:17.782777+00:00"
+    },
+    {
+      "call_id": "call_087d7d74cda1",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Hello?"
+      },
+      "timestamp": "2026-06-02T11:07:22.382222+00:00"
+    },
+    {
+      "call_id": "call_087d7d74cda1",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "Hello?"
+      },
+      "timestamp": "2026-06-02T11:07:22.539804+00:00"
+    },
+    {
+      "call_id": "call_087d7d74cda1",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T11:07:22.696972+00:00"
+    },
+    {
+      "call_id": "call_087d7d74cda1",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 157.6,
+          "avg": 157.6
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 4222.2,
+          "avg": 4222.2
+        }
+      },
+      "timestamp": "2026-06-02T11:07:26.764959+00:00"
+    },
+    {
+      "call_id": "call_087d7d74cda1",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T11:07:26.763013+00:00"
+    },
+    {
+      "call_id": "call_087d7d74cda1",
+      "event_type": "call_ended",
+      "payload": {
+        "summary": {
+          "status": "completed"
+        }
+      },
+      "timestamp": "2026-06-02T11:07:31.641576+00:00"
+    }
+  ],
+  "latency": {
+    "stt": {
+      "last": 157.6,
+      "avg": 157.6
+    },
+    "llm": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tts": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tool": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "e2e": {
+      "last": 4222.2,
+      "avg": 4222.2
+    }
+  },
+  "toolCalls": [],
+  "errors": [],
+  "summary": {
+    "status": "completed"
+  }
+}

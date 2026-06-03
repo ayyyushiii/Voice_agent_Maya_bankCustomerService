@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+frontend/.next/
+frontend/out/
+
+# Python
+backend/venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Environment
+.env
+.env.local
+frontend/.env.local
+
+# Call logs (optional — remove if you want to commit sample logs)
+backend/agent/call_logs/*.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Build
+dist/
+build/

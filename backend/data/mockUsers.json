@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "userId": "user_123",
+      "customerId": "cust_123",
+      "name": "Rahul Sharma",
+      "registeredPhone": "9999999999",
+      "birthYear": "1990",
+      "accountBalance": 52430,
+      "cardLast4": "4321",
+      "cardBlocked": false,
+      "branchHours": "Mon-Sat 9:00 AM - 5:00 PM"
+    }
+  ]
+}

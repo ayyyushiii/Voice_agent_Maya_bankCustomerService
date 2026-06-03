@@ -1,0 +1,238 @@
+{
+  "callId": "call_70ef63f19bfb",
+  "startedAt": "2026-06-02T13:01:35.978647+00:00",
+  "endedAt": "2026-06-02T13:01:54.355798+00:00",
+  "transcripts": [
+    {
+      "type": "stt_partial",
+      "text": "Hello.",
+      "timestamp": "2026-06-02T13:01:40.987435+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "Hello?",
+      "timestamp": "2026-06-02T13:01:41.216292+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "Hello?",
+      "timestamp": "2026-06-02T13:01:42.196997+00:00"
+    }
+  ],
+  "events": [
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "room_created",
+      "payload": {
+        "room": "maya-bank-call_70ef63f19bfb"
+      },
+      "timestamp": "2026-06-02T13:01:37.616953+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "agent_joined",
+      "payload": {
+        "agent": "Maya"
+      },
+      "timestamp": "2026-06-02T13:01:37.632352+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "user_joined",
+      "payload": {
+        "identity": "user-4c88571f",
+        "name": "ayushi"
+      },
+      "timestamp": "2026-06-02T13:01:37.658113+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "llm_started",
+      "payload": {
+        "purpose": "greeting"
+      },
+      "timestamp": "2026-06-02T13:01:37.661022+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.0,
+          "avg": 0.0
+        }
+      },
+      "timestamp": "2026-06-02T13:01:37.662466+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:01:37.662355+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "tts_started",
+      "payload": {},
+      "timestamp": "2026-06-02T13:01:37.668997+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Hello."
+      },
+      "timestamp": "2026-06-02T13:01:40.987435+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Hello?"
+      },
+      "timestamp": "2026-06-02T13:01:41.216292+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "Hello?"
+      },
+      "timestamp": "2026-06-02T13:01:42.196997+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:01:42.211996+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "OpenAI quota exceeded. Add credits at https://platform.openai.com/account/billing"
+      },
+      "timestamp": "2026-06-02T13:01:43.284412+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "OpenAI quota exceeded. Add credits at https://platform.openai.com/account/billing"
+      },
+      "timestamp": "2026-06-02T13:01:43.784560+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "OpenAI quota exceeded. Add credits at https://platform.openai.com/account/billing"
+      },
+      "timestamp": "2026-06-02T13:01:46.144411+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "OpenAI quota exceeded. Add credits at https://platform.openai.com/account/billing"
+      },
+      "timestamp": "2026-06-02T13:01:48.450110+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:01:48.459706+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 980.4,
+          "avg": 980.4
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 6263.3,
+          "avg": 6263.3
+        }
+      },
+      "timestamp": "2026-06-02T13:01:48.460048+00:00"
+    },
+    {
+      "call_id": "call_70ef63f19bfb",
+      "event_type": "call_ended",
+      "payload": {
+        "summary": {
+          "status": "completed"
+        }
+      },
+      "timestamp": "2026-06-02T13:01:54.355798+00:00"
+    }
+  ],
+  "latency": {
+    "stt": {
+      "last": 980.4,
+      "avg": 980.4
+    },
+    "llm": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tts": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tool": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "e2e": {
+      "last": 6263.3,
+      "avg": 6263.3
+    }
+  },
+  "toolCalls": [],
+  "errors": [],
+  "summary": {
+    "status": "completed"
+  }
+}

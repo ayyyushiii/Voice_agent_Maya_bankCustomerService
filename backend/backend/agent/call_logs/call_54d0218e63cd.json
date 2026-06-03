@@ -1,0 +1,40 @@
+{
+  "callId": "call_54d0218e63cd",
+  "startedAt": "2026-06-02T11:04:22.508033+00:00",
+  "endedAt": "2026-06-02T11:04:28.965001+00:00",
+  "transcripts": [],
+  "events": [
+    {
+      "call_id": "call_54d0218e63cd",
+      "event_type": "room_created",
+      "payload": {
+        "room": "maya-bank-call_54d0218e63cd"
+      },
+      "timestamp": "2026-06-02T11:04:23.763095+00:00"
+    },
+    {
+      "call_id": "call_54d0218e63cd",
+      "event_type": "agent_joined",
+      "payload": {
+        "agent": "Maya"
+      },
+      "timestamp": "2026-06-02T11:04:23.777107+00:00"
+    },
+    {
+      "call_id": "call_54d0218e63cd",
+      "event_type": "call_ended",
+      "payload": {
+        "summary": {
+          "status": "completed"
+        }
+      },
+      "timestamp": "2026-06-02T11:04:28.965001+00:00"
+    }
+  ],
+  "latency": {},
+  "toolCalls": [],
+  "errors": [],
+  "summary": {
+    "status": "completed"
+  }
+}

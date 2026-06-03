@@ -1,0 +1,225 @@
+{
+  "callId": "call_b556eba5b2ec",
+  "startedAt": "2026-06-02T13:02:40.413598+00:00",
+  "endedAt": "2026-06-02T13:03:01.170902+00:00",
+  "transcripts": [
+    {
+      "type": "stt_partial",
+      "text": "Hello.",
+      "timestamp": "2026-06-02T13:02:46.431314+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "Hello?",
+      "timestamp": "2026-06-02T13:02:47.206814+00:00"
+    }
+  ],
+  "events": [
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "room_created",
+      "payload": {
+        "room": "maya-bank-call_b556eba5b2ec"
+      },
+      "timestamp": "2026-06-02T13:02:41.655549+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "agent_joined",
+      "payload": {
+        "agent": "Maya"
+      },
+      "timestamp": "2026-06-02T13:02:41.669791+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "user_joined",
+      "payload": {
+        "identity": "user-2eebd6ee",
+        "name": "Ayu"
+      },
+      "timestamp": "2026-06-02T13:02:41.693468+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "llm_started",
+      "payload": {
+        "purpose": "greeting"
+      },
+      "timestamp": "2026-06-02T13:02:41.696171+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:02:41.697193+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.0,
+          "avg": 0.0
+        }
+      },
+      "timestamp": "2026-06-02T13:02:41.697358+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "tts_started",
+      "payload": {},
+      "timestamp": "2026-06-02T13:02:41.702742+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Hello."
+      },
+      "timestamp": "2026-06-02T13:02:46.431314+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "Hello?"
+      },
+      "timestamp": "2026-06-02T13:02:47.206814+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:02:47.227997+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "OpenAI quota exceeded. Add credits at https://platform.openai.com/account/billing"
+      },
+      "timestamp": "2026-06-02T13:02:48.207473+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "OpenAI quota exceeded. Add credits at https://platform.openai.com/account/billing"
+      },
+      "timestamp": "2026-06-02T13:02:48.611464+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "OpenAI quota exceeded. Add credits at https://platform.openai.com/account/billing"
+      },
+      "timestamp": "2026-06-02T13:02:50.914687+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "OpenAI quota exceeded. Add credits at https://platform.openai.com/account/billing"
+      },
+      "timestamp": "2026-06-02T13:02:53.222562+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:02:53.233523+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 774.7,
+          "avg": 774.7
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 6027.7,
+          "avg": 6027.7
+        }
+      },
+      "timestamp": "2026-06-02T13:02:53.233871+00:00"
+    },
+    {
+      "call_id": "call_b556eba5b2ec",
+      "event_type": "call_ended",
+      "payload": {
+        "summary": {
+          "status": "completed"
+        }
+      },
+      "timestamp": "2026-06-02T13:03:01.170902+00:00"
+    }
+  ],
+  "latency": {
+    "stt": {
+      "last": 774.7,
+      "avg": 774.7
+    },
+    "llm": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tts": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tool": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "e2e": {
+      "last": 6027.7,
+      "avg": 6027.7
+    }
+  },
+  "toolCalls": [],
+  "errors": [],
+  "summary": {
+    "status": "completed"
+  }
+}

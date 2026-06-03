@@ -1,0 +1,343 @@
+{
+  "callId": "call_6721e411937c",
+  "startedAt": "2026-06-02T11:10:52.070844+00:00",
+  "endedAt": "2026-06-02T11:11:09.622645+00:00",
+  "transcripts": [
+    {
+      "type": "stt_partial",
+      "text": "Hello.",
+      "timestamp": "2026-06-02T11:10:57.783234+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "Hello?",
+      "timestamp": "2026-06-02T11:10:58.781199+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "Hello?",
+      "timestamp": "2026-06-02T11:10:59.483732+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "Hi.",
+      "timestamp": "2026-06-02T11:11:00.134731+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "So",
+      "timestamp": "2026-06-02T11:11:01.148327+00:00"
+    }
+  ],
+  "events": [
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "room_created",
+      "payload": {
+        "room": "maya-bank-call_6721e411937c"
+      },
+      "timestamp": "2026-06-02T11:10:53.776444+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "agent_joined",
+      "payload": {
+        "agent": "Maya"
+      },
+      "timestamp": "2026-06-02T11:10:53.791762+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "user_joined",
+      "payload": {
+        "identity": "user-fc63cc28",
+        "name": "ayushi"
+      },
+      "timestamp": "2026-06-02T11:10:53.805391+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "llm_started",
+      "payload": {
+        "purpose": "greeting"
+      },
+      "timestamp": "2026-06-02T11:10:53.808627+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T11:10:53.809870+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.0,
+          "avg": 0.0
+        }
+      },
+      "timestamp": "2026-06-02T11:10:53.809995+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "tts_started",
+      "payload": {},
+      "timestamp": "2026-06-02T11:10:53.814720+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "type='tts_error' timestamp=1780398654.175103 label='livekit.plugins.elevenlabs.tts.TTS' error=APIError(\"no audio frames were pushed for text: Hello! I'm Maya from customer support. How can I help you today?\", body=None, retryable=True) recoverable=True"
+      },
+      "timestamp": "2026-06-02T11:10:54.176538+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "type='tts_error' timestamp=1780398654.377134 label='livekit.plugins.elevenlabs.tts.TTS' error=APIError(\"no audio frames were pushed for text: Hello! I'm Maya from customer support. How can I help you today?\", body=None, retryable=True) recoverable=True"
+      },
+      "timestamp": "2026-06-02T11:10:54.377590+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "type='tts_error' timestamp=1780398656.481536 label='livekit.plugins.elevenlabs.tts.TTS' error=APIError(\"no audio frames were pushed for text: Hello! I'm Maya from customer support. How can I help you today?\", body=None, retryable=True) recoverable=True"
+      },
+      "timestamp": "2026-06-02T11:10:56.482664+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Hello."
+      },
+      "timestamp": "2026-06-02T11:10:57.783234+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "type='tts_error' timestamp=1780398658.581534 label='livekit.plugins.elevenlabs.tts.TTS' error=APIError(\"no audio frames were pushed for text: Hello! I'm Maya from customer support. How can I help you today?\", body=None, retryable=True) recoverable=False"
+      },
+      "timestamp": "2026-06-02T11:10:58.582223+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Hello?"
+      },
+      "timestamp": "2026-06-02T11:10:58.781199+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "Hello?"
+      },
+      "timestamp": "2026-06-02T11:10:59.483732+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T11:10:59.659346+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "Hi."
+      },
+      "timestamp": "2026-06-02T11:11:00.134731+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T11:11:00.135321+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 700.9,
+          "avg": 700.9
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.3,
+          "avg": 0.3
+        }
+      },
+      "timestamp": "2026-06-02T11:11:00.135678+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T11:11:00.280079+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "OpenAI quota exceeded. Add credits at https://platform.openai.com/account/billing"
+      },
+      "timestamp": "2026-06-02T11:11:00.800602+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "So"
+      },
+      "timestamp": "2026-06-02T11:11:01.148327+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T11:11:01.151942+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 700.9,
+          "avg": 700.9
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.4,
+          "avg": 0.3
+        }
+      },
+      "timestamp": "2026-06-02T11:11:01.153598+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "OpenAI quota exceeded. Add credits at https://platform.openai.com/account/billing"
+      },
+      "timestamp": "2026-06-02T11:11:01.212724+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "OpenAI quota exceeded. Add credits at https://platform.openai.com/account/billing"
+      },
+      "timestamp": "2026-06-02T11:11:03.510116+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "error",
+      "payload": {
+        "component": "pipeline",
+        "message": "OpenAI quota exceeded. Add credits at https://platform.openai.com/account/billing"
+      },
+      "timestamp": "2026-06-02T11:11:05.818368+00:00"
+    },
+    {
+      "call_id": "call_6721e411937c",
+      "event_type": "call_ended",
+      "payload": {
+        "summary": {
+          "status": "completed"
+        }
+      },
+      "timestamp": "2026-06-02T11:11:09.622645+00:00"
+    }
+  ],
+  "latency": {
+    "stt": {
+      "last": 700.9,
+      "avg": 700.9
+    },
+    "llm": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tts": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tool": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "e2e": {
+      "last": 0.4,
+      "avg": 0.3
+    }
+  },
+  "toolCalls": [],
+  "errors": [],
+  "summary": {
+    "status": "completed"
+  }
+}

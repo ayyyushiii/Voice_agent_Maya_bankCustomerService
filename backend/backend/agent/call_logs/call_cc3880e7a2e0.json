@@ -1,0 +1,265 @@
+{
+  "callId": "call_cc3880e7a2e0",
+  "startedAt": "2026-06-02T13:05:21.902187+00:00",
+  "endedAt": "2026-06-02T13:05:54.483198+00:00",
+  "transcripts": [
+    {
+      "type": "stt_partial",
+      "text": "Hi,",
+      "timestamp": "2026-06-02T13:05:30.717797+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "Right now. I'd like to withdraw",
+      "timestamp": "2026-06-02T13:05:34.461528+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "Right now? I'd like to withdraw some money.",
+      "timestamp": "2026-06-02T13:05:35.496805+00:00"
+    }
+  ],
+  "events": [
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "room_created",
+      "payload": {
+        "room": "maya-bank-call_cc3880e7a2e0"
+      },
+      "timestamp": "2026-06-02T13:05:23.004621+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "agent_joined",
+      "payload": {
+        "agent": "Maya"
+      },
+      "timestamp": "2026-06-02T13:05:23.018116+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "user_joined",
+      "payload": {
+        "identity": "user-ee13ba31",
+        "name": "Ayu"
+      },
+      "timestamp": "2026-06-02T13:05:23.039727+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:05:23.043516+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "llm_started",
+      "payload": {
+        "purpose": "greeting"
+      },
+      "timestamp": "2026-06-02T13:05:23.042338+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.0,
+          "avg": 0.0
+        }
+      },
+      "timestamp": "2026-06-02T13:05:23.043630+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "tts_started",
+      "payload": {},
+      "timestamp": "2026-06-02T13:05:23.048824+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "speaking"
+      },
+      "timestamp": "2026-06-02T13:05:24.723642+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "agent_speaking",
+      "payload": {},
+      "timestamp": "2026-06-02T13:05:24.724333+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 3653.6,
+          "avg": 3653.6
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.0,
+          "avg": 0.0
+        }
+      },
+      "timestamp": "2026-06-02T13:05:28.369798+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:05:28.368088+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Hi,"
+      },
+      "timestamp": "2026-06-02T13:05:30.717797+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Right now. I'd like to withdraw"
+      },
+      "timestamp": "2026-06-02T13:05:34.461528+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "Right now? I'd like to withdraw some money."
+      },
+      "timestamp": "2026-06-02T13:05:35.496805+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:05:35.680147+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "speaking"
+      },
+      "timestamp": "2026-06-02T13:05:37.932560+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "agent_speaking",
+      "payload": {},
+      "timestamp": "2026-06-02T13:05:37.932894+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 1034.2,
+          "avg": 1034.2
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 10998.8,
+          "avg": 7326.2
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 13435.3,
+          "avg": 13435.3
+        }
+      },
+      "timestamp": "2026-06-02T13:05:48.931434+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:05:48.931124+00:00"
+    },
+    {
+      "call_id": "call_cc3880e7a2e0",
+      "event_type": "call_ended",
+      "payload": {
+        "summary": {
+          "status": "completed"
+        }
+      },
+      "timestamp": "2026-06-02T13:05:54.483198+00:00"
+    }
+  ],
+  "latency": {
+    "stt": {
+      "last": 1034.2,
+      "avg": 1034.2
+    },
+    "llm": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tts": {
+      "last": 10998.8,
+      "avg": 7326.2
+    },
+    "tool": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "e2e": {
+      "last": 13435.3,
+      "avg": 13435.3
+    }
+  },
+  "toolCalls": [],
+  "errors": [],
+  "summary": {
+    "status": "completed"
+  }
+}

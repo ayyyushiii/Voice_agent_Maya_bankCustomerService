@@ -1,0 +1,119 @@
+{
+  "callId": "call_38f3e5aef9dd",
+  "startedAt": "2026-06-02T11:05:47.314276+00:00",
+  "endedAt": "2026-06-02T11:05:52.744231+00:00",
+  "transcripts": [],
+  "events": [
+    {
+      "call_id": "call_38f3e5aef9dd",
+      "event_type": "room_created",
+      "payload": {
+        "room": "maya-bank-call_38f3e5aef9dd"
+      },
+      "timestamp": "2026-06-02T11:05:48.370822+00:00"
+    },
+    {
+      "call_id": "call_38f3e5aef9dd",
+      "event_type": "agent_joined",
+      "payload": {
+        "agent": "Maya"
+      },
+      "timestamp": "2026-06-02T11:05:48.386714+00:00"
+    },
+    {
+      "call_id": "call_38f3e5aef9dd",
+      "event_type": "user_joined",
+      "payload": {
+        "identity": "user-8f89e822",
+        "name": "ayu"
+      },
+      "timestamp": "2026-06-02T11:05:48.400846+00:00"
+    },
+    {
+      "call_id": "call_38f3e5aef9dd",
+      "event_type": "llm_started",
+      "payload": {
+        "purpose": "greeting"
+      },
+      "timestamp": "2026-06-02T11:05:48.403843+00:00"
+    },
+    {
+      "call_id": "call_38f3e5aef9dd",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T11:05:48.405091+00:00"
+    },
+    {
+      "call_id": "call_38f3e5aef9dd",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.0,
+          "avg": 0.0
+        }
+      },
+      "timestamp": "2026-06-02T11:05:48.405211+00:00"
+    },
+    {
+      "call_id": "call_38f3e5aef9dd",
+      "event_type": "tts_started",
+      "payload": {},
+      "timestamp": "2026-06-02T11:05:48.409893+00:00"
+    },
+    {
+      "call_id": "call_38f3e5aef9dd",
+      "event_type": "call_ended",
+      "payload": {
+        "summary": {
+          "status": "completed"
+        }
+      },
+      "timestamp": "2026-06-02T11:05:52.744231+00:00"
+    }
+  ],
+  "latency": {
+    "stt": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "llm": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tts": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tool": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "e2e": {
+      "last": 0.0,
+      "avg": 0.0
+    }
+  },
+  "toolCalls": [],
+  "errors": [],
+  "summary": {
+    "status": "completed"
+  }
+}

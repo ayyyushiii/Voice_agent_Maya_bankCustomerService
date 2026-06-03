@@ -1,0 +1,399 @@
+{
+  "callId": "call_9335772fc5d7",
+  "startedAt": "2026-06-02T13:08:48.507877+00:00",
+  "endedAt": "2026-06-02T13:09:23.469069+00:00",
+  "transcripts": [
+    {
+      "type": "stt_partial",
+      "text": "It's right",
+      "timestamp": "2026-06-02T13:08:51.944623+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "I say",
+      "timestamp": "2026-06-02T13:08:55.917346+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "Hi, Maya. I'd like",
+      "timestamp": "2026-06-02T13:08:56.910770+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "Hi, Maya. I'd like to check my account",
+      "timestamp": "2026-06-02T13:08:57.906807+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "Hi, Maya. I'd like to check my account balance.",
+      "timestamp": "2026-06-02T13:08:58.879886+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "One",
+      "timestamp": "2026-06-02T13:09:15.540173+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "But console",
+      "timestamp": "2026-06-02T13:09:17.483662+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "Like it to",
+      "timestamp": "2026-06-02T13:09:21.196220+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "Like it to tomorrow",
+      "timestamp": "2026-06-02T13:09:22.128744+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "Uh, and then",
+      "timestamp": "2026-06-02T13:09:23.124860+00:00"
+    }
+  ],
+  "events": [
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "room_created",
+      "payload": {
+        "room": "maya-bank-call_9335772fc5d7"
+      },
+      "timestamp": "2026-06-02T13:08:50.237296+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "agent_joined",
+      "payload": {
+        "agent": "Maya"
+      },
+      "timestamp": "2026-06-02T13:08:50.252977+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "user_joined",
+      "payload": {
+        "identity": "user-ed516597",
+        "name": "Ayu"
+      },
+      "timestamp": "2026-06-02T13:08:50.277585+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "llm_started",
+      "payload": {
+        "purpose": "greeting"
+      },
+      "timestamp": "2026-06-02T13:08:50.280779+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:08:50.282014+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.0,
+          "avg": 0.0
+        }
+      },
+      "timestamp": "2026-06-02T13:08:50.282126+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "tts_started",
+      "payload": {},
+      "timestamp": "2026-06-02T13:08:50.286801+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "speaking"
+      },
+      "timestamp": "2026-06-02T13:08:51.337494+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "agent_speaking",
+      "payload": {},
+      "timestamp": "2026-06-02T13:08:51.338050+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "It's right"
+      },
+      "timestamp": "2026-06-02T13:08:51.944623+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:08:54.725162+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 3396.3,
+          "avg": 3396.3
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 2780.6,
+          "avg": 2780.6
+        }
+      },
+      "timestamp": "2026-06-02T13:08:54.725839+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "I say"
+      },
+      "timestamp": "2026-06-02T13:08:55.917346+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Hi, Maya. I'd like"
+      },
+      "timestamp": "2026-06-02T13:08:56.910770+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Hi, Maya. I'd like to check my account"
+      },
+      "timestamp": "2026-06-02T13:08:57.906807+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "Hi, Maya. I'd like to check my account balance."
+      },
+      "timestamp": "2026-06-02T13:08:58.879886+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:08:59.061149+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "agent_speaking",
+      "payload": {},
+      "timestamp": "2026-06-02T13:09:00.527774+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "speaking"
+      },
+      "timestamp": "2026-06-02T13:09:00.527198+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:09:04.787636+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 971.4,
+          "avg": 971.4
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 4260.2,
+          "avg": 3828.2
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 5908.5,
+          "avg": 4344.5
+        }
+      },
+      "timestamp": "2026-06-02T13:09:04.789485+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "One"
+      },
+      "timestamp": "2026-06-02T13:09:15.540173+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "But console"
+      },
+      "timestamp": "2026-06-02T13:09:17.483662+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Like it to"
+      },
+      "timestamp": "2026-06-02T13:09:21.196220+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "Like it to tomorrow"
+      },
+      "timestamp": "2026-06-02T13:09:22.128744+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:09:22.145599+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Uh, and then"
+      },
+      "timestamp": "2026-06-02T13:09:23.124860+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:09:23.126637+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 931.3,
+          "avg": 951.4
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 4260.2,
+          "avg": 3828.2
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.6,
+          "avg": 2896.5
+        }
+      },
+      "timestamp": "2026-06-02T13:09:23.127476+00:00"
+    },
+    {
+      "call_id": "call_9335772fc5d7",
+      "event_type": "call_ended",
+      "payload": {
+        "summary": {
+          "status": "completed"
+        }
+      },
+      "timestamp": "2026-06-02T13:09:23.469069+00:00"
+    }
+  ],
+  "latency": {
+    "stt": {
+      "last": 931.3,
+      "avg": 951.4
+    },
+    "llm": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tts": {
+      "last": 4260.2,
+      "avg": 3828.2
+    },
+    "tool": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "e2e": {
+      "last": 0.6,
+      "avg": 2896.5
+    }
+  },
+  "toolCalls": [],
+  "errors": [],
+  "summary": {
+    "status": "completed"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "callId": "call_98016468ff04",
+  "startedAt": "2026-06-02T11:09:00.740760+00:00",
+  "endedAt": "2026-06-02T11:09:25.173392+00:00",
+  "transcripts": [
+    {
+      "type": "stt_partial",
+      "text": "Hello.",
+      "timestamp": "2026-06-02T11:09:06.151558+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "Hello?",
+      "timestamp": "2026-06-02T11:09:07.155533+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "Hello?",
+      "timestamp": "2026-06-02T11:09:07.805464+00:00"
+    }
+  ],
+  "events": [
+    {
+      "call_id": "call_98016468ff04",
+      "event_type": "room_created",
+      "payload": {
+        "room": "maya-bank-call_98016468ff04"
+      },
+      "timestamp": "2026-06-02T11:09:03.141471+00:00"
+    },
+    {
+      "call_id": "call_98016468ff04",
+      "event_type": "agent_joined",
+      "payload": {
+        "agent": "Maya"
+      },
+      "timestamp": "2026-06-02T11:09:03.157029+00:00"
+    },
+    {
+      "call_id": "call_98016468ff04",
+      "event_type": "user_joined",
+      "payload": {
+        "identity": "user-abaa13b1",
+        "name": "ayushi"
+      },
+      "timestamp": "2026-06-02T11:09:03.171218+00:00"
+    },
+    {
+      "call_id": "call_98016468ff04",
+      "event_type": "llm_started",
+      "payload": {
+        "purpose": "greeting"
+      },
+      "timestamp": "2026-06-02T11:09:03.173925+00:00"
+    },
+    {
+      "call_id": "call_98016468ff04",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T11:09:03.175131+00:00"
+    },
+    {
+      "call_id": "call_98016468ff04",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.0,
+          "avg": 0.0
+        }
+      },
+      "timestamp": "2026-06-02T11:09:03.175231+00:00"
+    },
+    {
+      "call_id": "call_98016468ff04",
+      "event_type": "tts_started",
+      "payload": {},
+      "timestamp": "2026-06-02T11:09:03.180053+00:00"
+    },
+    {
+      "call_id": "call_98016468ff04",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Hello."
+      },
+      "timestamp": "2026-06-02T11:09:06.151558+00:00"
+    },
+    {
+      "call_id": "call_98016468ff04",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Hello?"
+      },
+      "timestamp": "2026-06-02T11:09:07.155533+00:00"
+    },
+    {
+      "call_id": "call_98016468ff04",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "Hello?"
+      },
+      "timestamp": "2026-06-02T11:09:07.805464+00:00"
+    },
+    {
+      "call_id": "call_98016468ff04",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T11:09:08.266145+00:00"
+    },
+    {
+      "call_id": "call_98016468ff04",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 649.4,
+          "avg": 649.4
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 7213.8,
+          "avg": 7213.8
+        }
+      },
+      "timestamp": "2026-06-02T11:09:15.019751+00:00"
+    },
+    {
+      "call_id": "call_98016468ff04",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T11:09:15.018981+00:00"
+    },
+    {
+      "call_id": "call_98016468ff04",
+      "event_type": "call_ended",
+      "payload": {
+        "summary": {
+          "status": "completed"
+        }
+      },
+      "timestamp": "2026-06-02T11:09:25.173392+00:00"
+    }
+  ],
+  "latency": {
+    "stt": {
+      "last": 649.4,
+      "avg": 649.4
+    },
+    "llm": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tts": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tool": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "e2e": {
+      "last": 7213.8,
+      "avg": 7213.8
+    }
+  },
+  "toolCalls": [],
+  "errors": [],
+  "summary": {
+    "status": "completed"
+  }
+}

@@ -1,0 +1,1306 @@
+{
+  "callId": "call_fe4abb7ee881",
+  "startedAt": "2026-06-02T13:06:28.654761+00:00",
+  "endedAt": "2026-06-02T13:08:39.610109+00:00",
+  "transcripts": [
+    {
+      "type": "stt_partial",
+      "text": "Hi, Maya. I would",
+      "timestamp": "2026-06-02T13:06:37.081118+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "Hi, Maya. I would",
+      "timestamp": "2026-06-02T13:06:37.360661+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "like to check",
+      "timestamp": "2026-06-02T13:06:38.318813+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "like to check my account balance",
+      "timestamp": "2026-06-02T13:06:39.324912+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "like to check my account balance.",
+      "timestamp": "2026-06-02T13:06:39.652395+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "Four five three three.",
+      "timestamp": "2026-06-02T13:06:51.764134+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "And my birth year",
+      "timestamp": "2026-06-02T13:06:52.819955+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "And my birth year is two thousand",
+      "timestamp": "2026-06-02T13:06:53.777612+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "And my birth year is two thousand three.",
+      "timestamp": "2026-06-02T13:06:54.130478+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "The last four digit of",
+      "timestamp": "2026-06-02T13:07:10.659141+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "The last four digit of my, uh,",
+      "timestamp": "2026-06-02T13:07:11.647246+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "The last four digit of my, uh,",
+      "timestamp": "2026-06-02T13:07:11.730254+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "number is",
+      "timestamp": "2026-06-02T13:07:12.748832+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "number is four five three",
+      "timestamp": "2026-06-02T13:07:13.730540+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "number is four five three two.",
+      "timestamp": "2026-06-02T13:07:14.163577+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "And",
+      "timestamp": "2026-06-02T13:07:15.174760+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "And my birth year is",
+      "timestamp": "2026-06-02T13:07:16.170846+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "And my birth year is two thousand four.",
+      "timestamp": "2026-06-02T13:07:17.178006+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "Nine",
+      "timestamp": "2026-06-02T13:07:31.370555+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "Nine nine nine nine.",
+      "timestamp": "2026-06-02T13:07:32.374121+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "Nine nine nine nine.",
+      "timestamp": "2026-06-02T13:07:32.407762+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "One",
+      "timestamp": "2026-06-02T13:07:40.251174+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "One nine nine zero.",
+      "timestamp": "2026-06-02T13:07:41.284107+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "One nine nine zero.",
+      "timestamp": "2026-06-02T13:07:41.402289+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "For example,",
+      "timestamp": "2026-06-02T13:08:02.351456+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "Hi. I would like to drop my card",
+      "timestamp": "2026-06-02T13:08:23.052584+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "I would like to drop my card.",
+      "timestamp": "2026-06-02T13:08:23.403993+00:00"
+    },
+    {
+      "type": "stt_partial",
+      "text": "Yes. I'd like you to block it.",
+      "timestamp": "2026-06-02T13:08:32.331059+00:00"
+    },
+    {
+      "type": "stt_final",
+      "text": "Yes. I'd like you to block it.",
+      "timestamp": "2026-06-02T13:08:32.332289+00:00"
+    }
+  ],
+  "events": [
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "room_created",
+      "payload": {
+        "room": "maya-bank-call_fe4abb7ee881"
+      },
+      "timestamp": "2026-06-02T13:06:30.221704+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_joined",
+      "payload": {
+        "agent": "Maya"
+      },
+      "timestamp": "2026-06-02T13:06:30.235951+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "user_joined",
+      "payload": {
+        "identity": "user-50514fbd",
+        "name": "Ayu"
+      },
+      "timestamp": "2026-06-02T13:06:30.261070+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "llm_started",
+      "payload": {
+        "purpose": "greeting"
+      },
+      "timestamp": "2026-06-02T13:06:30.264179+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.0,
+          "avg": 0.0
+        }
+      },
+      "timestamp": "2026-06-02T13:06:30.265486+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:06:30.265341+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "tts_started",
+      "payload": {},
+      "timestamp": "2026-06-02T13:06:30.269697+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "speaking"
+      },
+      "timestamp": "2026-06-02T13:06:31.542800+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_speaking",
+      "payload": {},
+      "timestamp": "2026-06-02T13:06:31.543546+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:06:35.034809+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 3500.9,
+          "avg": 3500.9
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.0,
+          "avg": 0.0
+        }
+      },
+      "timestamp": "2026-06-02T13:06:35.035533+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Hi, Maya. I would"
+      },
+      "timestamp": "2026-06-02T13:06:37.081118+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "Hi, Maya. I would"
+      },
+      "timestamp": "2026-06-02T13:06:37.360661+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:06:37.542645+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "like to check"
+      },
+      "timestamp": "2026-06-02T13:06:38.318813+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:06:38.320391+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 278.3,
+          "avg": 278.3
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 3500.9,
+          "avg": 3500.9
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.9,
+          "avg": 0.9
+        }
+      },
+      "timestamp": "2026-06-02T13:06:38.320972+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "like to check my account balance"
+      },
+      "timestamp": "2026-06-02T13:06:39.324912+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "like to check my account balance."
+      },
+      "timestamp": "2026-06-02T13:06:39.652395+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:06:39.660643+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "speaking"
+      },
+      "timestamp": "2026-06-02T13:06:41.935732+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_speaking",
+      "payload": {},
+      "timestamp": "2026-06-02T13:06:41.936782+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 327.4,
+          "avg": 302.8
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 6951.5,
+          "avg": 5226.2
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 9234.9,
+          "avg": 4617.9
+        }
+      },
+      "timestamp": "2026-06-02T13:06:48.889381+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:06:48.888165+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "Four five three three."
+      },
+      "timestamp": "2026-06-02T13:06:51.764134+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:06:51.778638+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "And my birth year"
+      },
+      "timestamp": "2026-06-02T13:06:52.819955+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:06:52.820756+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 327.4,
+          "avg": 302.8
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 6951.5,
+          "avg": 5226.2
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.2,
+          "avg": 3078.7
+        }
+      },
+      "timestamp": "2026-06-02T13:06:52.820961+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "And my birth year is two thousand"
+      },
+      "timestamp": "2026-06-02T13:06:53.777612+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "And my birth year is two thousand three."
+      },
+      "timestamp": "2026-06-02T13:06:54.130478+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:06:54.151599+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "speaking"
+      },
+      "timestamp": "2026-06-02T13:06:56.405156+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_speaking",
+      "payload": {},
+      "timestamp": "2026-06-02T13:06:56.406643+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 352.2,
+          "avg": 319.3
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 11167.0,
+          "avg": 7206.5
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 13441.9,
+          "avg": 5669.5
+        }
+      },
+      "timestamp": "2026-06-02T13:07:07.573592+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:07:07.572439+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "The last four digit of"
+      },
+      "timestamp": "2026-06-02T13:07:10.659141+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "The last four digit of my, uh,"
+      },
+      "timestamp": "2026-06-02T13:07:11.647246+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "The last four digit of my, uh,"
+      },
+      "timestamp": "2026-06-02T13:07:11.730254+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:07:11.745224+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "number is"
+      },
+      "timestamp": "2026-06-02T13:07:12.748832+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:07:12.749592+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 82.2,
+          "avg": 260.0
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 11167.0,
+          "avg": 7206.5
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.2,
+          "avg": 4535.6
+        }
+      },
+      "timestamp": "2026-06-02T13:07:12.750177+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "number is four five three"
+      },
+      "timestamp": "2026-06-02T13:07:13.730540+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "number is four five three two."
+      },
+      "timestamp": "2026-06-02T13:07:14.163577+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:07:14.174742+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "speaking"
+      },
+      "timestamp": "2026-06-02T13:07:15.168816+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_speaking",
+      "payload": {},
+      "timestamp": "2026-06-02T13:07:15.169883+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "And"
+      },
+      "timestamp": "2026-06-02T13:07:15.174760+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:07:15.175410+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 432.2,
+          "avg": 294.4
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 5.6,
+          "avg": 5406.3
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 0.1,
+          "avg": 3779.7
+        }
+      },
+      "timestamp": "2026-06-02T13:07:15.175732+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "And my birth year is"
+      },
+      "timestamp": "2026-06-02T13:07:16.170846+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "And my birth year is two thousand four."
+      },
+      "timestamp": "2026-06-02T13:07:17.178006+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:07:17.191109+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "speaking"
+      },
+      "timestamp": "2026-06-02T13:07:18.627639+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_speaking",
+      "payload": {},
+      "timestamp": "2026-06-02T13:07:18.628351+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 1006.9,
+          "avg": 413.2
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 10216.6,
+          "avg": 6368.3
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 11666.3,
+          "avg": 4906.4
+        }
+      },
+      "timestamp": "2026-06-02T13:07:28.847228+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:07:28.845244+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Nine"
+      },
+      "timestamp": "2026-06-02T13:07:31.370555+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Nine nine nine nine."
+      },
+      "timestamp": "2026-06-02T13:07:32.374121+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "Nine nine nine nine."
+      },
+      "timestamp": "2026-06-02T13:07:32.407762+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:07:32.421257+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "speaking"
+      },
+      "timestamp": "2026-06-02T13:07:34.052712+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_speaking",
+      "payload": {},
+      "timestamp": "2026-06-02T13:07:34.053692+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:07:37.894038+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 32.9,
+          "avg": 358.8
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 3841.4,
+          "avg": 5947.2
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "e2e": {
+          "last": 5487.0,
+          "avg": 4978.9
+        }
+      },
+      "timestamp": "2026-06-02T13:07:37.894930+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "One"
+      },
+      "timestamp": "2026-06-02T13:07:40.251174+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "One nine nine zero."
+      },
+      "timestamp": "2026-06-02T13:07:41.284107+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "One nine nine zero."
+      },
+      "timestamp": "2026-06-02T13:07:41.402289+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:07:41.414340+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "tool_called",
+      "payload": {
+        "tool": "verify_user",
+        "args": {
+          "phone": "9999****"
+        }
+      },
+      "timestamp": "2026-06-02T13:07:42.497894+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "tool_called",
+      "payload": {
+        "tool": "get_balance",
+        "args": {}
+      },
+      "timestamp": "2026-06-02T13:07:42.499292+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "tool_failure",
+      "payload": {
+        "tool": "verify_user",
+        "error": "No account found for this phone number"
+      },
+      "timestamp": "2026-06-02T13:07:42.503458+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "tool_failure",
+      "payload": {
+        "tool": "get_balance",
+        "error": "Verification required before accessing account balance"
+      },
+      "timestamp": "2026-06-02T13:07:42.504127+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "tool_result",
+      "payload": {
+        "tool": "verify_user",
+        "result": {
+          "success": false,
+          "error": "No account found for this phone number"
+        },
+        "durationMs": 1.7
+      },
+      "timestamp": "2026-06-02T13:07:42.505890+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "tool_result",
+      "payload": {
+        "tool": "get_balance",
+        "result": {
+          "success": false,
+          "error": "Verification required before accessing account balance"
+        },
+        "durationMs": 0.0
+      },
+      "timestamp": "2026-06-02T13:07:42.506596+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 117.2,
+          "avg": 328.6
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 3841.4,
+          "avg": 5947.2
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.8
+        },
+        "e2e": {
+          "last": 5487.0,
+          "avg": 4978.9
+        }
+      },
+      "timestamp": "2026-06-02T13:07:42.507435+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 117.2,
+          "avg": 328.6
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 3841.4,
+          "avg": 5947.2
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.8
+        },
+        "e2e": {
+          "last": 5487.0,
+          "avg": 4978.9
+        }
+      },
+      "timestamp": "2026-06-02T13:07:42.507932+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "speaking"
+      },
+      "timestamp": "2026-06-02T13:07:44.128651+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_speaking",
+      "payload": {},
+      "timestamp": "2026-06-02T13:07:44.130812+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 117.2,
+          "avg": 328.6
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 9196.9,
+          "avg": 6411.4
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.8
+        },
+        "e2e": {
+          "last": 11923.9,
+          "avg": 5750.6
+        }
+      },
+      "timestamp": "2026-06-02T13:07:53.327105+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:07:53.325914+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "For example,"
+      },
+      "timestamp": "2026-06-02T13:08:02.351456+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:08:02.368103+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_speaking",
+      "payload": {},
+      "timestamp": "2026-06-02T13:08:08.165583+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "speaking"
+      },
+      "timestamp": "2026-06-02T13:08:08.165134+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:08:11.798848+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 117.2,
+          "avg": 328.6
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 3633.7,
+          "avg": 6064.2
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.8
+        },
+        "e2e": {
+          "last": 9448.0,
+          "avg": 6120.3
+        }
+      },
+      "timestamp": "2026-06-02T13:08:11.800431+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Hi. I would like to drop my card"
+      },
+      "timestamp": "2026-06-02T13:08:23.052584+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "I would like to drop my card."
+      },
+      "timestamp": "2026-06-02T13:08:23.403993+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:08:23.419160+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "speaking"
+      },
+      "timestamp": "2026-06-02T13:08:24.802681+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_speaking",
+      "payload": {},
+      "timestamp": "2026-06-02T13:08:24.803744+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "listening"
+      },
+      "timestamp": "2026-06-02T13:08:29.191687+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "latency_update",
+      "payload": {
+        "stt": {
+          "last": 350.4,
+          "avg": 331.1
+        },
+        "llm": {
+          "last": 0.0,
+          "avg": 0.0
+        },
+        "tts": {
+          "last": 4389.6,
+          "avg": 5878.1
+        },
+        "tool": {
+          "last": 0.0,
+          "avg": 0.8
+        },
+        "e2e": {
+          "last": 5788.7,
+          "avg": 6090.2
+        }
+      },
+      "timestamp": "2026-06-02T13:08:29.192129+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_partial",
+      "payload": {
+        "text": "Yes. I'd like you to block it."
+      },
+      "timestamp": "2026-06-02T13:08:32.331059+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "stt_final",
+      "payload": {
+        "text": "Yes. I'd like you to block it."
+      },
+      "timestamp": "2026-06-02T13:08:32.332289+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "thinking"
+      },
+      "timestamp": "2026-06-02T13:08:32.342410+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_state",
+      "payload": {
+        "state": "speaking"
+      },
+      "timestamp": "2026-06-02T13:08:33.851451+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "agent_speaking",
+      "payload": {},
+      "timestamp": "2026-06-02T13:08:33.852714+00:00"
+    },
+    {
+      "call_id": "call_fe4abb7ee881",
+      "event_type": "call_ended",
+      "payload": {
+        "summary": {
+          "status": "completed"
+        }
+      },
+      "timestamp": "2026-06-02T13:08:39.610109+00:00"
+    }
+  ],
+  "latency": {
+    "stt": {
+      "last": 350.4,
+      "avg": 331.1
+    },
+    "llm": {
+      "last": 0.0,
+      "avg": 0.0
+    },
+    "tts": {
+      "last": 4389.6,
+      "avg": 5878.1
+    },
+    "tool": {
+      "last": 0.0,
+      "avg": 0.8
+    },
+    "e2e": {
+      "last": 5788.7,
+      "avg": 6090.2
+    }
+  },
+  "toolCalls": [
+    {
+      "tool": "verify_user",
+      "args": {
+        "phone": "9999****"
+      },
+      "timestamp": "2026-06-02T13:07:42.497894+00:00"
+    },
+    {
+      "tool": "get_balance",
+      "args": {},
+      "timestamp": "2026-06-02T13:07:42.499292+00:00",
+      "result": {
+        "success": false,
+        "error": "Verification required before accessing account balance"
+      },
+      "durationMs": 0.0
+    }
+  ],
+  "errors": [
+    {
+      "type": "tool_failure",
+      "detail": {
+        "tool": "verify_user",
+        "error": "No account found for this phone number"
+      },
+      "timestamp": "2026-06-02T13:07:42.503458+00:00"
+    },
+    {
+      "type": "tool_failure",
+      "detail": {
+        "tool": "get_balance",
+        "error": "Verification required before accessing account balance"
+      },
+      "timestamp": "2026-06-02T13:07:42.504127+00:00"
+    }
+  ],
+  "summary": {
+    "status": "completed"
+  }
+}

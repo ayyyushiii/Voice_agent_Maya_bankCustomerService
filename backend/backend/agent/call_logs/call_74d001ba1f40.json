@@ -1,0 +1,24 @@
+{
+  "callId": "call_74d001ba1f40",
+  "startedAt": "2026-06-02T10:59:34.284057+00:00",
+  "endedAt": "2026-06-02T11:00:14.392571+00:00",
+  "transcripts": [],
+  "events": [
+    {
+      "call_id": "call_74d001ba1f40",
+      "event_type": "call_ended",
+      "payload": {
+        "summary": {
+          "status": "completed"
+        }
+      },
+      "timestamp": "2026-06-02T11:00:14.392571+00:00"
+    }
+  ],
+  "latency": {},
+  "toolCalls": [],
+  "errors": [],
+  "summary": {
+    "status": "completed"
+  }
+}
